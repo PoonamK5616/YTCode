@@ -74,12 +74,3 @@ If you encounter any errors, verify the following:
 - The video ID is correct.
 - The transcript is enabled for the video.
 
-
-
-License
-This script is free to use and distribute under the MIT License.
-
-
-
-Contributions
-Feel free to contribute to this project by submitting pull requests or reporting issues. Your feedback is appreciated!
